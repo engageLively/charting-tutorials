@@ -9,4 +9,4 @@ The lively_client library sends data from a Jupyter Notebook to every live copy 
 See the examples at https://engagelively.com/examples/.  API documentation is at https://engagelively.com/documentation/
 ## Notebooks
 **chart_basics.ipynb**: Use the lively_client to update a simple, collaborative chart
-**streaming.ipynb**: Send streaming data to a chart
+**streaming_data.ipynb**: Send streaming data to a chart
